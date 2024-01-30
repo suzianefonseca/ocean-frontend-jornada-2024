@@ -7,7 +7,7 @@
 }
 .card > h2 {
   font-size: 32px;
-  
+  border-left: 6px solid #a9d3e9;
 }
 
 .card > img {
